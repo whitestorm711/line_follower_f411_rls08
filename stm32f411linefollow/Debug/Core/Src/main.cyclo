@@ -1,0 +1,12 @@
+../Core/Src/main.c:74:7:calculate_error	4
+../Core/Src/main.c:101:7:PID_Update	1
+../Core/Src/main.c:118:6:line_follow	5
+../Core/Src/main.c:135:16:int_to_str	5
+../Core/Src/main.c:151:13:usb_debug_print	3
+../Core/Src/main.c:174:16:button_pressed	5
+../Core/Src/main.c:197:6:GO	3
+../Core/Src/main.c:219:5:main	4
+../Core/Src/main.c:281:6:SystemClock_Config	3
+../Core/Src/main.c:327:13:MX_USB_OTG_FS_PCD_Init	2
+../Core/Src/main.c:362:13:MX_GPIO_Init	1
+../Core/Src/main.c:385:6:Error_Handler	1

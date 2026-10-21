@@ -1,0 +1,4 @@
+../Core/Src/motordrive.c:17:10:LF_GetPwmMax	1
+../Core/Src/motordrive.c:22:6:LF_SetMotorSpeed	3
+../Core/Src/motordrive.c:33:13:dir_pin_write	2
+../Core/Src/motordrive.c:39:6:LF_SetMotorDirection	3

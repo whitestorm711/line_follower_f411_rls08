@@ -1,0 +1,13 @@
+../Core/Src/usb_cdc.c:171:13:delay_ms	8	static
+../Core/Src/usb_cdc.c:192:13:fifo_read	20	static
+../Core/Src/usb_cdc.c:206:13:ep_in_send	20	static
+../Core/Src/usb_cdc.c:218:13:ep0_send	0	static
+../Core/Src/usb_cdc.c:226:13:ep0_arm_out	0	static
+../Core/Src/usb_cdc.c:232:13:ep0_stall	0	static
+../Core/Src/usb_cdc.c:238:13:ep1_arm_out	0	static
+../Core/Src/usb_cdc.c:520:6:OTG_FS_IRQHandler	32	static
+../Core/Src/usb_cdc.c:534:6:cdc_init	8	static,ignoring_inline_asm
+../Core/Src/usb_cdc.c:598:9:cdc_connected	0	static
+../Core/Src/usb_cdc.c:603:9:cdc_dtr	0	static
+../Core/Src/usb_cdc.c:608:10:cdc_write	8	static
+../Core/Src/usb_cdc.c:622:10:cdc_read	8	static

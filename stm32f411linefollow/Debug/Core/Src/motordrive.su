@@ -1,0 +1,4 @@
+../Core/Src/motordrive.c:17:10:LF_GetPwmMax	4	static
+../Core/Src/motordrive.c:22:6:LF_SetMotorSpeed	24	static
+../Core/Src/motordrive.c:33:13:dir_pin_write	16	static
+../Core/Src/motordrive.c:39:6:LF_SetMotorDirection	16	static
